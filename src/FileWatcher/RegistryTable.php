@@ -1,4 +1,5 @@
 <?php
+namespace Xcrms\FileWatcher;
 
 /***
  * @todo 注册表 单例模式

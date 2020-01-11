@@ -1,0 +1,20 @@
+{
+    "name": "xcrms/file-watcher",
+    "description": "file watcher base swoole",
+    "type": "project",
+    "require": {
+        "php": ">=7.2.0",
+        "swoole": ">4.4.0"
+    },
+    "authors": [
+        {
+            "name": "caojian",
+            "email": "647812411@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Xcrms\\FileWatcher\\": "src/FileWatcher/"
+        }
+    }
+}

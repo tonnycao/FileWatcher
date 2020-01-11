@@ -1,4 +1,5 @@
 <?php
+namespace Xcrms\FileWatcher;
 
 /***
  * @todo 处理员接口

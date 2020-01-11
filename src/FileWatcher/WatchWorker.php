@@ -1,4 +1,5 @@
 <?php
+namespace Xcrms\FileWatcher;
 
 /****
  * @todo 观察者

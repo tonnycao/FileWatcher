@@ -1,5 +1,5 @@
 <?php
-
+namespace Xcrms\FileWatcher;
 
 
 /****
